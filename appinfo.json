@@ -1,0 +1,32 @@
+{
+    "appKeys": {
+        "address": 0,
+        "command": 2,
+        "data": 3,
+        "pair_code": 1
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "jacobx1",
+    "longName": "LG Pebble",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu.png",
+                "menuIcon": true,
+                "name": "MENU_IMAGE",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "LG Pebble",
+    "uuid": "5616e493-2974-4284-9738-710de002edaa",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
